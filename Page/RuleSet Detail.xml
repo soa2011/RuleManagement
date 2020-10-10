@@ -80,19 +80,19 @@
             <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>Category</sch:name>
-            <sch:seqNumber>300</sch:seqNumber>
+            <sch:name>RuleType</sch:name>
+            <sch:seqNumber>220</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
-            <sch:fieldType>Edit</sch:fieldType>
+            <sch:fieldType>Select</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>Category</sch:label>
+            <sch:label>RuleType</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
-            <sch:domainName></sch:domainName>
+            <sch:domainName>RuleType</sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
             <sch:dependency></sch:dependency>
-            <sch:defaultValue></sch:defaultValue>
+            <sch:defaultValue>Generic Rule</sch:defaultValue>
             <sch:mask></sch:mask>
             <sch:relatedFields></sch:relatedFields>
             <sch:relatedRules></sch:relatedRules>
@@ -106,7 +106,7 @@
             <sch:sortOrder></sch:sortOrder>
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
-            <sch:required>false</sch:required>
+            <sch:required>true</sch:required>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -129,16 +129,17 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:bmfDomain isRef="true">RuleType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>InputObjectTypeId</sch:name>
+            <sch:name>RuleBody</sch:name>
             <sch:seqNumber>400</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
-            <sch:fieldType>ObjectSelector</sch:fieldType>
-            <sch:refTargetType>ObjectType</sch:refTargetType>
-            <sch:label>InputObjectTypeId</sch:label>
+            <sch:fieldType>CodeEdit</sch:fieldType>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>RuleBody</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -149,15 +150,15 @@
             <sch:relatedRules></sch:relatedRules>
             <sch:helpText></sch:helpText>
             <sch:help></sch:help>
-            <sch:width>0</sch:width>
-            <sch:height>0</sch:height>
+            <sch:width>80</sch:width>
+            <sch:height>8</sch:height>
             <sch:rowSpan>1</sch:rowSpan>
             <sch:colSpan>1</sch:colSpan>
             <sch:sortable>false</sch:sortable>
             <sch:sortOrder></sch:sortOrder>
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
-            <sch:required>true</sch:required>
+            <sch:required>false</sch:required>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
