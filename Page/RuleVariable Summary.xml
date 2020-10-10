@@ -182,14 +182,14 @@
             <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>InOut</sch:name>
+            <sch:name>InOutType</sch:name>
             <sch:seqNumber>300</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType></sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>InOut</sch:label>
+            <sch:label>InOutType</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>

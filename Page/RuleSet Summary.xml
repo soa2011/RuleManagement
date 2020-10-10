@@ -284,14 +284,14 @@
             <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>AdminOrganization</sch:name>
+            <sch:name>RuleFolderId</sch:name>
             <sch:seqNumber>500</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType></sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>AdminOrganization</sch:label>
+            <sch:label>RuleFolderId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>

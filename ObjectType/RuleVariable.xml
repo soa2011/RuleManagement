@@ -77,7 +77,7 @@
             <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>InOut</sch:name>
+            <sch:name>InOutType</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName>RuleInOutType</sch:enumName>
             <sch:length>256</sch:length>
