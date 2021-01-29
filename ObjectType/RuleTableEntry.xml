@@ -12,6 +12,7 @@
     <sch:viewInfo></sch:viewInfo>
     <sch:hierarchyColumn></sch:hierarchyColumn>
     <sch:description></sch:description>
+    <sch:aggrRoot>false</sch:aggrRoot>
     <sch:changeType></sch:changeType>
     <sch:changeFields></sch:changeFields>
     <sch:bmfRelationships/>
@@ -131,4 +132,5 @@
     </sch:bmfFields>
     <sch:bmfRules/>
     <sch:bmfIndexRules/>
+    <sch:objectTypeConfigs/>
 </sch:ObjectType>

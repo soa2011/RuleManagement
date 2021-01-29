@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://Baf.com/schemas" name="EditRule">
+    <sch:name>EditRule</sch:name>
+    <sch:label>EditRule</sch:label>
+    <sch:behavior>DynamicRoute</sch:behavior>
+    <sch:bmfTransactionName></sch:bmfTransactionName>
+    <sch:content>/Rule/RuleDesignerX/${oid}</sch:content>
+    <sch:appliesTo></sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+</sch:Button>
