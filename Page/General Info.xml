@@ -162,4 +162,5 @@
             <sch:bmfButton isRef="true">TestTransRequest</sch:bmfButton>
         </sch:BmfPageButton>
     </sch:buttons>
+    <sch:plugins/>
 </sch:PageDefinition>

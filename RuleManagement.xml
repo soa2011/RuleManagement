@@ -2,7 +2,7 @@
 <sch:BmfAppModel xmlns:sch="http://Baf.com/schemas" name="RuleManagement">
     <sch:name>RuleManagement</sch:name>
     <sch:aggrRootName>RuleManagement</sch:aggrRootName>
-    <sch:revision>11</sch:revision>
+    <sch:revision>12</sch:revision>
     <sch:modelType>CUSTOM_MODEL</sch:modelType>
     <sch:historyMode>SYSTEM_HISTORY</sch:historyMode>
     <sch:baseModel>RuleManagement</sch:baseModel>

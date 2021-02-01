@@ -318,4 +318,5 @@
             <sch:bmfButton isRef="true">EditAlgorithm</sch:bmfButton>
         </sch:BmfPageButton>
     </sch:buttons>
+    <sch:plugins/>
 </sch:PageDefinition>

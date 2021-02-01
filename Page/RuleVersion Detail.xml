@@ -706,4 +706,5 @@
             <sch:bmfButton isRef="true">EditRuleConfiguration</sch:bmfButton>
         </sch:BmfPageButton>
     </sch:buttons>
+    <sch:plugins/>
 </sch:PageDefinition>

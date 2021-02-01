@@ -704,5 +704,16 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:bmfButton isRef="true">EditRule</sch:bmfButton>
         </sch:BmfPageButton>
+        <sch:BmfPageButton>
+            <sch:seqNumber>1600</sch:seqNumber>
+            <sch:buttonName>DeployRule</sch:buttonName>
+            <sch:displayCondition></sch:displayCondition>
+            <sch:displayResource></sch:displayResource>
+            <sch:description></sch:description>
+            <sch:showButton>true</sch:showButton>
+            <sch:eventHandler></sch:eventHandler>
+            <sch:bmfButton isRef="true">DeployRule</sch:bmfButton>
+        </sch:BmfPageButton>
     </sch:buttons>
+    <sch:plugins/>
 </sch:PageDefinition>
